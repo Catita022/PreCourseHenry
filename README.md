@@ -1,2 +1,2 @@
 # PreCourseHenry
-Esta es una prueba del modulo dos
+Este es un ejemplo de como clonar un repositorio desde git hash y clonarlo a mi escritorio local
